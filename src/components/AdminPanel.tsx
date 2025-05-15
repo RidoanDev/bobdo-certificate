@@ -17,7 +17,7 @@ const AdminPanel = () => {
   const { toast } = useToast();
   
   // Simple password for demo purposes - in a real app, you'd use proper auth
-  const adminPassword = "admin123";
+  const adminPassword = "BOBDO-certificate@@##$$&&";
 
   useEffect(() => {
     if (authenticated) {
