@@ -228,8 +228,8 @@ const Index = () => {
         
         <Tabs defaultValue="user" className="max-w-3xl mx-auto">
           <TabsList className="grid w-full grid-cols-2">
-            <TabsTrigger value="user">ব্যবহারকারী</TabsTrigger>
-            <TabsTrigger value="admin">এডমিন</TabsTrigger>
+            <TabsTrigger value="user">　</TabsTrigger>
+            <TabsTrigger value="admin">　</TabsTrigger>
           </TabsList>
           
           <TabsContent value="user">
